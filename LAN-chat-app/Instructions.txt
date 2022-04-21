@@ -1,0 +1,8 @@
+Open and run Dr.Java.exe Both Simultaneously 
+Open Same ChatApp.java file on both drJava.exe
+Run ChatApp.java Simultaneously 
+
+		OR
+		
+		
+		we can import and run in Eclipse/ NetBeans also.
